@@ -1,7 +1,7 @@
 # DS4002_CS3
 A case study assignment for students to use time series analysis to assess the impacts of COVID-19 on major league sports viewership.
 
-For project information, see hook and rubric under CS_Materials/
+For assignment information, see hook and rubric under CS_Materials/
 
 For time series analysis reference, see 
   Wikipedia, “Exponential Smoothing” https://en.wikipedia.org/wiki/Exponential_smoothing#Double_exponential_smoothing_(Holt_linear)
